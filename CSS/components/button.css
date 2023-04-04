@@ -1,0 +1,22 @@
+.btn-grey {
+	background-color: #F5F3F5;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: rgb(255, 255, 255) ;
+	font-weight: bold;
+	font-family: calibri;
+}
+.btn-grey:hover{
+	background-color: rgba(240, 240, 240, 0.5);
+}
+#myprofile{
+  color: rgb(0, 0, 0);
+  text-decoration: underline;
+  transition: color 0.3s ease;
+  text-align: center;
+  margin: 0px auto;
+}
+#myprofile:hover{
+  color: #723D46;
+}
+
